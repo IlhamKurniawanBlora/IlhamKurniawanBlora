@@ -43,7 +43,7 @@ I'm a passionate Frontend & Full Stack Developer with a knack for crafting seaml
 </p>
 
 ## Music
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=eac71a)]
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=eac71a)
 
 ## Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)

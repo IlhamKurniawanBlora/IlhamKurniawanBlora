@@ -21,10 +21,35 @@ I'm a passionate Frontend & Full Stack Developer with a knack for crafting seaml
 - Remote work opportunities and collaboration on innovative projects.
 
 ## 📬 Connect With Me
-- [Send me a message on WhatsApp](https://wa.me/087734378825?text=Halo%20saya%20tertarik%20untuk%20berbicara%20dengan%20anda)
-- [Email me](mailto:ilhamkurniawanjateng@gmail.com?subject=Interest%20in%20Conversation&body=Halo%2C%20saya%20tertarik%20untuk%20berbicara%20dengan%20anda)
-- [LinkedIn](https://www.linkedin.com/in/ilham-kurniawan-9667891b7/) 
-- [GitHub](https://github.com/IlhamKurniawanBlora) 
+<p align="left">
+<a href="https://www.linkedin.com/in/ilham-kurniawan-9667891b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
+<a href="https://instagram.com/ilhamkrnwan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="30" width="40" /></a>
+<a href="https://wa.me/087734378825?text=Halo%20saya%20tertarik%20untuk%20berbicara%20dengan%20anda" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="mailto:ilhamkurniawanjateng@gmail.com?subject=Interest%20in%20Conversation&body=Halo%2C%20saya%20tertarik%20untuk%20berbicara%20dengan%20anda" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/email/email-icon.svg" alt="Email" height="30" width="40" /></a>
+
+</p>
+
+## Languages and Tools:
+<p align="left">
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+## Music
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31flfhcyr5ompehvnh5ffgibohli&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=0665cb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+## Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## My Streak
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=your-github-username&theme=algolia&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=algolia&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203" alt="your-github-username" /></p>
 
 ## ⚡ Fun Fact
 I'm always up for a new challenge and love collaborating on exciting projects. Let's build something amazing together!

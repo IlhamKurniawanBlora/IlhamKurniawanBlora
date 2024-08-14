@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm KAIRAV 👋
 
 ## 🚀 About Me
 I'm a passionate Frontend & Full Stack Developer with a knack for crafting seamless web experiences. Based in Blora - Yogyakarta, I'm currently pursuing my studies while diving deep into the world of web development.
@@ -23,8 +23,8 @@ I'm a passionate Frontend & Full Stack Developer with a knack for crafting seaml
 ## 📬 Connect With Me
 - [Send me a message on WhatsApp](https://wa.me/087734378825?text=Halo%20saya%20tertarik%20untuk%20berbicara%20dengan%20anda)
 - [Email me](mailto:ilhamkurniawanjateng@gmail.com?subject=Interest%20in%20Conversation&body=Halo%2C%20saya%20tertarik%20untuk%20berbicara%20dengan%20anda)
-- [LinkedIn](https://www.linkedin.com/in/your-profile) (Replace with your LinkedIn profile URL)
-- [GitHub](https://github.com/your-username) (Replace with your GitHub profile URL)
+- [LinkedIn](https://www.linkedin.com/in/ilham-kurniawan-9667891b7/) 
+- [GitHub](https://github.com/IlhamKurniawanBlora) 
 
 ## ⚡ Fun Fact
 I'm always up for a new challenge and love collaborating on exciting projects. Let's build something amazing together!

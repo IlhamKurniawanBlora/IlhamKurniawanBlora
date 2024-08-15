@@ -13,7 +13,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
     Download My CV
 </a>
 
-## 🛠️ Languages and Tools: 🛠️
+🛠️ **Languages and Tools:** 🛠️
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  
@@ -29,13 +29,13 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
  <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>  
 </div>
 
-## 📊 My Github Stats: 📊
+📊 **My Github Stats:** 📊
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamkurniawanblora&show_icons=true&locale=en&layout=compact" alt="ilhamkurniawanblora" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamkurniawanblora&" alt="ilhamkurniawanblora" />
 </p>
 
-## 🙏 Support: 🙏
+🙏 **Support:** 🙏
 <p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/kairav__"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/kairav__" /></a></p>
 
 ## ❤️ Thanks for visiting my profile! 🚀

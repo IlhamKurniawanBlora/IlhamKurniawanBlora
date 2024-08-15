@@ -6,7 +6,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
 
 🚀 **Proyek Saya:** Anda dapat melihat semua proyek saya di [kairav-portfolio.vercel.app](kairav-portfolio.vercel.app)
 
-📧 **Hubungi Saya:** ilhamkurniawanjateng@gmail.com
+📧 **Hubungi Saya:** Anda dapat Menghubungi saya di ilhamkurniawanjateng@gmail.com
 
 📄 **Pengalaman Saya:** 
 <a href="https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link" target="_blank">

@@ -61,7 +61,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/kairav__"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/kairav__" /></a></p>
 
 ## 📊 My Github Stats: 📊
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamkurniawanblora&show_icons=true&locale=en&layout=compact" alt="ilhamkurniawanblora" /></p>
+<p><img align="between" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamkurniawanblora&show_icons=true&locale=en&layout=compact" alt="ilhamkurniawanblora" /></p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhamkurniawanblora&show_icons=true&locale=en" alt="ilhamkurniawanblora" />
 </p>

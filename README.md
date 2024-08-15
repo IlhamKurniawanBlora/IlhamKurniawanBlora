@@ -16,7 +16,11 @@
 * ilhamkurniawanjateng@gmail.com
 
 ## 📄 My Experiences 📄
-* Know about my experiences [https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link)
+<a href="https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link" target="_blank">
+  <div align="center" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    Download My CV
+  </div>
+</a>
 
 ## ⚡ Fun fact ⚡
 * I'm always up for a new challenge and love collaborating on exciting projects. Let's build something amazing together! Thanks for visiting my profile! 🚀

@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm KAIRAV 👋
 🚀 **Ilham Kurniawan**
-## 🙋‍♂️ Frontend | Backend | Junior Fullstack | Speaker | AI Enthusiast | Undergraduated Student 🙋‍♂️
+## Frontend | Backend | Junior Fullstack | Speaker | AI Enthusiast | Undergraduated Student 
 
 Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk menciptakan solusi digital yang inovatif. Saya memiliki hasrat mendalam terhadap dunia pemrograman dan selalu ingin belajar teknologi terbaru. Saat ini, saya fokus pada pengembangan aplikasi web menggunakan JavaScript, React, dan Node.js. Saya juga memiliki pengalaman dalam merancang database dan membangun backend yang efisien.
 

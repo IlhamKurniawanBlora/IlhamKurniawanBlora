@@ -8,7 +8,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
 
 📧 **Hubungi Saya:** Anda dapat Menghubungi saya di ilhamkurniawanjateng@gmail.com
 
-📄 **Pengalaman Saya:** Lebih Lanjut [Download My CV]([kairav-portfolio.vercel.app](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link))
+📄 **Pengalaman Saya:** Lebih Lanjut [Download My CV](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link)
 
 
 📊 **My Github Stats:** 📊 

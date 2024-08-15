@@ -10,9 +10,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
 
 📄 **Pengalaman Saya:** 
 <a href="https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link" target="_blank">
-  <div align="center" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
     Download My CV
-  </div>
 </a>
 
 ## 🛠️ Languages and Tools: 🛠️

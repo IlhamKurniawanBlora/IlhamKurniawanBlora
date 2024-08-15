@@ -46,9 +46,7 @@
 
 ## 🎧 Music : 🎧
 
-<div align="center">
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true]][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=eac71a)
-</div>
+[![spotify]([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]])]
 
 ## 📜 Quotes: 📜
 

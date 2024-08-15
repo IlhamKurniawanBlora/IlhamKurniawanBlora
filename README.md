@@ -43,9 +43,12 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
 </div>
+
 ## 🎧 Music : 🎧
 
+<div align="center">
 ![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true]][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=eac71a)
+</div>
 
 ## 📜 Quotes: 📜
 

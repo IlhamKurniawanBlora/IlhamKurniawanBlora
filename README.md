@@ -14,7 +14,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
 </a>
 
 ## 🛠️ Languages and Tools: 🛠️
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); grid-gap: 20px;">
+<div align="between" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); grid-gap: 20px;">
   <div><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></div> 
   <div><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></div> 
   <div><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></div> 

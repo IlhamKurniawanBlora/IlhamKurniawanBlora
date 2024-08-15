@@ -4,9 +4,9 @@
 
 Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk menciptakan solusi digital yang inovatif. Saya memiliki hasrat mendalam terhadap dunia pemrograman dan selalu ingin belajar teknologi terbaru. Saat ini, saya fokus pada pengembangan aplikasi web menggunakan JavaScript, React, dan Node.js. Saya juga memiliki pengalaman dalam merancang database dan membangun backend yang efisien.
 
-🚀 **Proyek Saya:** Anda dapat melihat semua proyek saya di [kairav-portfolio.vercel.app](kairav-portfolio.vercel.app)
+**Proyek Saya:** Anda dapat melihat semua proyek saya di [kairav-portfolio.vercel.app](https://kairav-portfolio.vercel.app)
 
-📧 **Hubungi Saya:** Anda dapat Menghubungi saya di ilhamkurniawanjateng@gmail.com
+📧 **Hubungi Saya:** Anda dapat menghubungi saya di [ilhamkurniawanjateng@gmail.com](mailto:ilhamkurniawanjateng@gmail.com)
 
 📄 **Pengalaman Saya:** Lebih Lanjut [Download My CV](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link)
 

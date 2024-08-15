@@ -8,10 +8,14 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
 
 📧 **Hubungi Saya:** Anda dapat Menghubungi saya di ilhamkurniawanjateng@gmail.com
 
-📄 **Pengalaman Saya:** 
-<a href="https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link" target="_blank">
-    Download My CV
-</a>
+📄 **Pengalaman Saya:** Lebih Lanjut [Download My CV]([kairav-portfolio.vercel.app](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link))
+
+
+📊 **My Github Stats:** 📊 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamkurniawanblora&show_icons=true&locale=en&layout=compact" alt="ilhamkurniawanblora" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamkurniawanblora&" alt="ilhamkurniawanblora" />
+</p>
 
 🛠️ **Languages and Tools:** 🛠️
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
@@ -29,11 +33,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
  <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>  
 </div>
 
-📊 **My Github Stats:** 📊
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamkurniawanblora&show_icons=true&locale=en&layout=compact" alt="ilhamkurniawanblora" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamkurniawanblora&" alt="ilhamkurniawanblora" />
-</p>
+
 
 🙏 **Support:** 🙏
 <p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/kairav__"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/kairav__" /></a></p>

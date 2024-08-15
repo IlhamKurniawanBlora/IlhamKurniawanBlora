@@ -34,7 +34,7 @@
 </p>
 
 ## 🛠️ Languages and Tools: 🛠️
-<p align="center">
+<p align="between">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -51,7 +51,7 @@
 
 ## 🎧 Music : 🎧
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true]][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=eac71a)
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&redirect=true]][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31imq2edmthgekdzdue5fxdvqrvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=eac71a)
 
 ## 📜 Quotes: 📜
 
@@ -70,4 +70,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamkurniawanblora&" alt="ilhamkurniawanblora" />
 </p>
 
-❤️ Thanks for visiting my profile! 🚀
+## ❤️ Thanks for visiting my profile! 🚀

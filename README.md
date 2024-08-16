@@ -18,7 +18,7 @@ Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk
 </p>
 
 🛠️ **Languages and Tools:** 🛠️
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; background: white; border-radius: 3px; justify-content: center; flex-wrap: wrap; gap: 20px;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
